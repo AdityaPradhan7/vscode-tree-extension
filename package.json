@@ -1,8 +1,12 @@
 {
   "name": "tree-extension-adityapradhan",
   "displayName": ".aiapp Tree Viewer",
-  "publisher": "AdityaPradhan",
+  "publisher": "Aditya_Pradhan",
   "description": "Open and view .aiapp files as interactive trees, using a React application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdityaPradhan7/vscode-tree-extension.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
