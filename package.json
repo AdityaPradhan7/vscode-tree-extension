@@ -1,7 +1,7 @@
 {
   "name": "tree-extension-adityapradhan",
   "displayName": ".aiapp Tree Viewer",
-  "publisher": "Aditya_Pradhan",
+  "publisher": "Aditya-Pradhan",
   "description": "Open and view .aiapp files as interactive trees, using a React application",
   "repository": {
     "type": "git",
