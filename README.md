@@ -19,7 +19,7 @@ This extension provides a custom tree viewer for `.aiapp` files within Visual St
 
 ## JSON Data Format
 
-The extension expects the `.aiapp` file to contain a JSON object with a specific structure. The root object should contain a `template` key, which holds the data for the tree visualization. `description`, `roleDescription` and `staticJsonPayload` should be base64 encoded.
+The extension expects the `.aiapp` file to contain a JSON object with a specific structure. The root object should contain a `template` key. The Values of the keys: `description`, `roleDescription` and `staticJsonPayload`, need to be `base64` encoded.
 
 Here is an example of the required format:
 
