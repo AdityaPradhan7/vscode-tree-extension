@@ -15,8 +15,6 @@ export function activate(context: vscode.ExtensionContext) {
             }
         )
     );
-
-    console.log('AI App Tree Viewer extension is now active!');
 }
 
 class AIAppEditor implements vscode.CustomTextEditorProvider {
